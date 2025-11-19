@@ -187,6 +187,5 @@ Objetivo:
 
 # 📞 Contacto
 
-**Email:** davidrodriguezscout@gmail.com  
 **LinkedIn:** https://linkedin.com/in/david-rodriguez-ramirez-7738241ab  
 **Web:** https://gemsy.es
