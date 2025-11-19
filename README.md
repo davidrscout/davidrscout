@@ -1,154 +1,236 @@
-<!-- Banner -->
-<h1 align="center">👨‍💻 David Rodríguez</h1>
-<p align="center">
-  <strong>Offensive Security & Red Team Apprentice | Python & AI Automation Developer | Cybersecurity Researcher | Creator of Gemsy.es</strong>
-</p>
+<!-- Perfil de GitHub de David Rodríguez – Offensive Security & Red Team Apprentice | Python & AI Automation Developer | Cybersecurity Researcher | Creator of Gemsy.es --> <h1 align="center">👨‍💻 David Rodríguez</h1> <p align="center"> <b>Offensive Security & Red Team Apprentice</b> · <b>Python & AI Automation Developer</b> · <b>Cybersecurity Researcher</b> · <b>Creator of Gemsy.es</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-red?style=flat-square"> <img src="https://img.shields.io/badge/Python-Automation-blue?style=flat-square"> <img src="https://img.shields.io/badge/AI-Driven_Developer-purple?style=flat-square"> <img src="https://img.shields.io/badge/Gemsy.es-Production%20Project-00bfff?style=flat-square"> </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-red?style=flat-square">
-  <img src="https://img.shields.io/badge/Python-Automation-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/AI-Engineering-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Gemsy.es-Creator-00bfff?style=flat-square">
-</div>
+$ whoami
+Offensive Security & Red Team apprentice
+Python & AI-assisted automation developer
+Football data & scouting engineer (Gemsy.es)
 
----
+$ now
+→ Aprendiendo explotación ofensiva y privesc
+→ Construyendo scrapers masivos y automatizaciones con IA
+→ Diseñando herramientas que ahorran horas a ojeadores y analistas
 
-## 🧨 Sobre mí
-Soy un apasionado de la **ciberseguridad ofensiva**, especializado en **Red Team**, automatización con Python y creación de herramientas impulsadas por IA.
+🧨 Sobre mí
 
-Me destaco por:
+Soy David Rodríguez, un perfil híbrido entre:
 
-- 🛠️ Construir herramientas funcionales aunque no sepa “programar de memoria”  
-- 🤖 Integrar modelos de IA para automatizar procesos complejos  
-- 🔎 Resolver retos ofensivos: ganar shells, enumerar, escalar privilegios  
-- 🧩 Crear scrapers y pipelines masivos de datos  
-- ☁️ Trabajar en Google Cloud con despliegues reales  
-- 🧠 Aprender rápido y construir mientras aprendo  
+🧱 Ciberseguridad ofensiva (Red Team)
 
----
+🐍 Automatización con Python + IA
 
-## 🚀 Proyectos Reales
+⚽ Ingeniería de datos aplicada al fútbol (Gemsy.es)
 
-### 🟦 **Gemsy.es — IA aplicada al scouting profesional**
-Plataforma completa creada por mí desde cero:
-- Procesamiento de datos masivos (scrapers + SQL)
-- IA capaz de generar análisis y scouting con lenguaje natural  
-- Infraestructura en Google Cloud (App Engine, Firestore, APIs internas)
-- Automación de informes, dashboards y filtros avanzados  
+No me dedico a “programar por programar”:
+prefiero diseñar sistemas, automatizar procesos y explotar vulnerabilidades, apoyándome en herramientas de IA para escribir y mejorar código mientras entiendo lo que se ejecuta.
 
-➡️ *Actualmente usada por ojeadores profesionales.*
+Me muevo cómodo en:
 
----
+Linux / terminal, entornos de laboratorio y VMs
 
-### 🟩 Scrapers Masivos de Transfermarkt & similares
-- Playwright + BS4 + Requests  
-- Limpieza y normalización automática  
-- Exportación directa a SQL y Google Sheets  
-- Optimización anti-bloqueos  
-- Scraping de ligas enteras (días de ejecución sin errores)
+Análisis de tráfico, enumeración, explotación básica y lectura profunda de archivos / BBDD una vez dentro
 
----
+Procesar datos masivos (scraping + SQL) y convertirlos en algo útil para humanos (dashboards, IA, informes)
 
-### 🟥 Automatizaciones Multi-plataforma
-- WhatsApp Business + IA  
-- Google Sheets + IA para análisis  
-- Dashboards automatizados  
-- Bots en Telegram  
-- Tareas masivas de scraping + clasificación IA  
+🛠 Tech & Cyber Arsenal
+🧩 Core técnico
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,linux,git,docker,gcp,mysql,postgresql,html,css,js" /> </p>
 
----
+Python → automatización, scraping, bots, APIs, orquestación con IA
 
-## 🛠️ Stack Técnico
+SQL → modelado de datos, consultas complejas, analítica (PostgreSQL / MySQL)
 
-### **Lenguajes**
-<div>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash" />
-</div>
+HTML / CSS / JS → lo justo y necesario para levantar interfaces (ej: Gemsy)
 
-### **Ciberseguridad / Red Team**
-- Nmap | Gobuster | SQLmap  
-- BurpSuite | Wireshark  
-- Netcat | SSH  
-- LinPEAS / WinPEAS  
-- Análisis de credenciales y archivos  
-- Enumeración ofensiva  
-- Post-explotación básica  
-- HTB / TryHackMe (Medium)
+Google Cloud → App Engine, Cloud SQL, Firestore, Secret Manager, SSH remoto
 
-### **IA**
-<div>
-  <img src="https://skillicons.dev/icons?i=ai,gcp" />
-</div>
+Docker → contenedores para scrapers, bots y servicios
 
-- GPT, Gemini, Claude, DeepSeek  
-- Integración de IA en pipelines reales  
-- Orquestación de prompts y agentes  
+🔐 Ciberseguridad / Red Team (Offensive)
 
-### **Cloud**
-- Google Cloud (App Engine, Firestore, Cloud SQL, Secret Manager)  
-- Docker  
-- APIs  
+Herramientas y conceptos con los que trabajo y sigo aprendiendo:
 
----
+🔎 Enumeración & Recon
 
-## 🔐 Enfoque Red Team
+nmap, gobuster
 
-### **🔎 Enumeración**
-- Descubrimiento de servicios  
-- Fuzzing  
-- Subidas de archivos  
-- Enumeración web avanzada  
+Fuzzing de rutas y parámetros
 
-### **💥 Explotación**
-- Bypasses básicos  
-- RCE  
-- Shells interactivas  
-- Inyección SQL  
+Descubrimiento de servicios/webs expuestas
 
-### **⏫ Escalada de privilegios**
-- Cracking  
-- Configuraciones débiles  
-- SUID / capabilities  
-- Explotación de rutas  
-- Lectura de archivos sensibles  
+💥 Explotación Web & Acceso Inicial
 
----
+BurpSuite (interceptar, modificar, probar)
 
-## ⚙️ Setup de Trabajo
-- Kali Linux + herramientas ofensivas  
-- BurpSuite  
-- VSCode  
-- Playwright + Python  
-- Google Cloud SDK  
-- tmux + terminal optimizado  
+sqlmap en escenarios controlados
 
----
+Subida de archivos e inyecciones básicas
 
-## 📈 Métricas
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=davidrscout&show_icons=true&theme=tokyonight">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrscout&layout=compact&theme=tokyonight">
-</div>
+Uso de nc, ssh para ganar y mantener shells
 
----
+📂 Análisis & Post-explotación
 
-## 🎯 Roadmap Actual
-- Perfeccionar explotación web y privesc Linux  
-- Comenzar privesc Windows  
-- Desarrollar scripts ofensivos propios  
-- Completar máquinas Medium/Hard  
-- Preparar camino hacia **OSCP**  
-- Migrar partes de Gemsy a microservicios  
-- Crear mini-herramientas Red Team en Python  
+Wireshark para revisar tráfico / credenciales / patrones
 
----
+Lectura de archivos interesantes (/etc, configs, logs…)
 
-## 🧭 Lema Personal
-> **“Automatizo lo complejo, exploto lo vulnerable y aprendo cada día para ser mejor ofensivamente.”**
+Exploración de bases de datos una vez comprometidas
 
----
+💥 Actualmente centrado en labs tipo HackTheBox / TryHackMe, consolidando máquinas Easy/Medium y profundizando en métodos reales de acceso + privesc.
 
-## 📫 Contacto
-- **Email:** davidrodriguezscout@gmail.com  
-- **LinkedIn:** linkedin.com/in/david-rodriguez-ramirez-7738241ab  
-- **Web:** https://gemsy.es  
+🤖 IA & Automatización
+
+Integración de: GPT, Gemini, Claude, DeepSeek
+
+Diseño de prompts avanzados para construir herramientas completas aunque no “memorice sintaxis”
+
+Agentes que:
+
+Llaman a APIs
+
+Procesan BBDD
+
+Generan informes o decisiones automáticas
+
+IA aplicada a:
+
+Scouting de fútbol (Gemsy.es)
+
+Automatización de flujos (WhatsApp, Sheets, etc.)
+
+Análisis de grandes volúmenes de datos
+
+🚀 Proyectos Destacados
+🟦 Gemsy.es — IA para Scouting Profesional
+
+Plataforma real en producción, usada por ojeadores.
+
+Gemsy es una IA de scouting de fútbol que permite:
+
+Consultas en lenguaje natural sobre jugadores, ligas y datos
+
+Scrapers masivos sobre fuentes como Transfermarkt para construir BBDD propias
+
+Análisis, comparación y generación de informes automatizados
+
+Integración con modelos de IA para:
+
+Resumen de jugadores
+
+Análisis táctico
+
+Valoración de potencial
+
+Tecnologías clave:
+
+Backend en Python
+
+Infraestructura en Google Cloud (App Engine, Cloud SQL, Firestore, Secret Manager)
+
+Integración con múltiples modelos de IA (GPT, Gemini, etc.)
+
+Paneles y herramientas internas para ojeadores
+
+🔗 Web: <a href="https://gemsy.es" target="_blank">gemsy.es</a>
+
+🟩 Scrapers Masivos de Fútbol (Transfermarkt & Co.)
+
+Desarrollo de scrapers en Python (Requests / Playwright / BeautifulSoup) capaces de:
+
+Recorrer ligas completas y bases de datos gigantes
+
+Manejar miles de URLs sin romperse a mitad de camino
+
+Limpiar, normalizar y estructurar datos de jugadores, clubes, ligas…
+
+Volcar los datos a SQL o Google Sheets para análisis posterior
+
+Servir como base para IA (Gemsy, informes, dashboards)
+
+No es scraping “de juguete”: son procesos que pueden tardar días y deben ser robustos.
+
+🟥 Automatizaciones Multi-Plataforma
+
+Automatizaciones reales para:
+
+WhatsApp / Meta → bots y flujos semi-automatizados con IA
+
+Google Sheets / Calendar / Drive → creación y actualización automática de datos
+
+Office / entornos de productividad → tareas repetitivas transformadas en scripts
+
+Objetivo: reducir trabajo manual y dejar a las personas solo la parte de decisión.
+
+<details> <summary>📂 Más contexto sobre cómo trabajo</summary>
+
+Uso IA como copiloto, no como sustituto del razonamiento
+
+Entiendo qué hace el código que ejecuto, aunque no lo escriba 100% desde cero
+
+Me gusta partir de un objetivo (ej: “necesito un sistema que scrapee X, procese Y y genere Z”)
+y construirlo paso a paso con pruebas reales, logs y correcciones continuas.
+
+</details>
+🔐 Enfoque Red Team (lo que más me gusta)
+🔎 1. Enumeración
+
+Identificar superficies de ataque
+
+Encontrar rutas, parámetros y servicios expuestos
+
+Empezar a entender la lógica de la aplicación/infraestructura
+
+💥 2. Ganar acceso
+
+Explotar pequeñas debilidades hasta conseguir shell
+
+Probar cargas, parámetros raros, uploads, bypasses
+
+Buscar el punto débil que permite pasar de “usuario anónimo” a “estoy dentro”
+
+📂 3. Leer, explorar, entender
+
+Una vez dentro, lo que más disfruto:
+
+Leer archivos clave (configs, logs, credenciales)
+
+Explorar bases de datos
+
+Reconstruir mentalmente “cómo está montado el sistema”
+
+Ver qué decisiones técnicas llevaron a que esa máquina sea vulnerable
+
+⏫ 4. Privilege Escalation (en aprendizaje)
+
+Identificar malas configuraciones
+
+Revisar permisos, binarios, servicios
+
+Buscar caminos de privesc claros a partir de lo encontrado
+
+📈 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=davidrscout&show_icons=true&theme=tokyonight&hide_border=true"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrscout&layout=compact&theme=tokyonight&hide_border=true"> </p>
+🎯 Roadmap 2025
+
+Consolidar bases sólidas en explotación web y privesc en Linux
+
+Empezar en serio con privesc Windows
+
+Crear scripts ofensivos propios en Python (enumeración, helper tools, etc.)
+
+Subir el nivel en HTB / THM (más Medium y empezar Hard seleccionadas)
+
+Seguir evolucionando Gemsy como producto serio de datos + IA
+
+Preparar el camino hacia una futura certificación tipo OSCP
+
+🧭 Lema personal
+
+💬 “Automatizo lo complejo, exploto lo vulnerable y aprendo cada día para ser más peligroso (de forma ética).”
+
+📫 Contacto
+
+📧 Email: davidrodriguezscout@gmail.com
+
+💼 LinkedIn: linkedin.com/in/david-rodriguez-ramirez-7738241ab
+
+🌐 Web: https://gemsy.es
