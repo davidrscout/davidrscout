@@ -28,11 +28,11 @@ Mi forma de trabajar es clara:
 > **Entender → Diseñar → Automatizar → Escalar → Explotar (de forma ética).**
 
 Sé hacer cosas que la mayoría de perfiles junior NO hace:
-- crear plataformas reales usadas por profesionales  
-- scraping de miles de datos  
-- automatizaciones cloud  
-- ingeniería asistida con IA  
-- y además, practicar hacking en entornos reales  
+- Crear plataformas reales usadas por profesionales  
+- Scraping de miles de datos  
+- Automatizaciones cloud  
+- Ingeniería asistida con IA  
+- Practicar hacking en entornos reales  
 
 ---
 
