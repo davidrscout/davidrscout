@@ -1,167 +1,151 @@
-<h1 align="center">👨‍💻 David ´- Natu</h1>
+<h1 align="center">⚡ David - Natu ⚡</h1>
 <p align="center">
-  <strong>Red Team Apprentice · Python Automation & Data Engineer · Cybersecurity Researcher · Creator of Gemsy.es</strong>
+  <strong>Red Team Apprentice · Python Automation Engineer · Data & Cloud Specialist · Creator of Gemsy.es</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Offensive%20Security-Red%20Team-red?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Offensive_Security-Red_Team-critical?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Engineering-SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Data_Engineering-SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/AI-Automation-green?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
 ---
 
-# 🚀 Sobre mí
+## 🧠 Sobre mí
 
-Soy **David - Natu**, un profesional con un perfil único que combina:
+Soy **David - Natu**, un perfil híbrido entre:
 
-- **Ciberseguridad ofensiva (Red Team)**
-- **Automatización avanzada con Python**
-- **Ingeniería de datos y scraping masivo**
-- **Infraestructura en producción en Google Cloud**
-- **Análisis técnico aplicado al fútbol profesional (Gemsy.es)**
+- 🚨 **Red Team / Ethical Hacking**
+- 🐍 **Automatización avanzada con Python**
+- 📊 **Data Engineering & scraping masivo**
+- ☁️ **Cloud computing en producción (GCP)**
+- ⚽ **Análisis de datos aplicado al fútbol (Gemsy.es)**
 
-No trabajo memorizando código.  
-Trabajo **entendiendo procesos, diseñando sistemas y automatizando tareas complejas**, apoyándome en IA para acelerar el desarrollo, no para sustituirlo.
+Mi forma de trabajar es clara:
 
-Mi filosofía:  
-**analizar → automatizar → explotar → optimizar → desplegar**
+> **Entender → Diseñar → Automatizar → Escalar → Explotar (de forma ética).**
 
----
-
-# 💎 Lo que realmente me diferencia
-
-### ✔️ He creado **una plataforma real en producción** (Gemsy.es)  
-→ usada por ojeadores reales  
-→ scraping masivo  
-→ infraestructura cloud  
-→ IA aplicada a análisis técnico
-
-### ✔️ Hago scraping **a escala país**  
-→ ligas completas  
-→ miles de peticiones  
-→ normalización de datos  
-→ integraciones para IA
-
-### ✔️ Automatización avanzada con Python  
-→ bots, APIs, pipelines  
-→ agentes inteligentes  
-→ generación automática de análisis
-
-### ✔️ Infraestructura completa en Google Cloud  
-→ App Engine  
-→ Firestore  
-→ Cloud SQL  
-→ Secret Manager  
-→ automatización end-to-end
-
-### ✔️ Formación real en hacking  
-→ máquinas HTB/THM  
-→ enumeración  
-→ explotación  
-→ post-explotación  
-→ privesc Linux  
-
-Muy poca gente combina **Red Team + Data Engineering + Cloud + IA + producto real**.  
-Ese es tu valor diferencial.
+Sé hacer cosas que la mayoría de perfiles junior NO hace:
+- crear plataformas reales usadas por profesionales  
+- scraping de miles de datos  
+- automatizaciones cloud  
+- ingeniería asistida con IA  
+- y además, practicar hacking en entornos reales  
 
 ---
 
-# 🛠️ Stack Técnico Principal
+## 🔥 Mis "superpowers" (lo que me hace distinto)
+
+### ✔️ 1. He creado un producto REAL en producción → **Gemsy.es**
+No un proyecto de GitHub.  
+No un script.  
+Una **plataforma real** usada por ojeadores profesionales.
+
+### ✔️ 2. Scraping MASIVO a nivel liga/país
+Miles de URLs.  
+Pipelines que aguantan días.  
+Datos estructurados para IA.
+
+### ✔️ 3. Automatización completa con Python
+Scrapers, bots, APIs, pipelines, dashboards, IA…
+
+### ✔️ 4. Infraestructura cloud real
+App Engine, Firestore, Cloud SQL, Secret Manager, contenedores.
+
+### ✔️ 5. Formación sólida en hacking
+Enumeración, explotación, análisis interno, privesc Linux.
+
+### ✔️ 6. Capacidad de crear sistemas complejos aunque no programe “a mano”
+IA como **copiloto**, no como sustituto.  
+Yo diseño.  
+Yo razono.  
+Yo automatizo.  
+La IA acelera.
+
+---
+
+## 🛠️ Stack Técnico
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,gcp,postgresql,mysql,cloudflare,html,css,js" height="45">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,docker,gcp,postgresql,mysql,cloudflare,html,css,js" height="45">
 </p>
 
-### Lenguajes & Data  
-- Python (scraping, automatización, APIs, pipelines)  
-- SQL avanzado (PostgreSQL y MySQL)  
-- Procesamiento de datos masivos  
-- Automatización con IA (asistencia, generación, depuración de código)
+### Lenguajes & Data
+- Python (scraping, automatización, APIs, IA, pipelines)
+- SQL (PostgreSQL, MySQL)
+- Data cleaning, normalización, estructuración
 
-### Ciberseguridad / Red Team  
-- **Enumeración**: Nmap, Gobuster, Wfuzz  
-- **Explotación**: BurpSuite, SQLi, File Upload, LFI  
-- **Post-explotación**: análisis interno, extracción de credenciales, bases de datos  
-- **Privesc Linux**: SUID, permisos, rutas, servicios  
-- SSH, Netcat, análisis de tráfico con Wireshark
+### Ciberseguridad / Red Team
+- Nmap, Gobuster, Wfuzz
+- BurpSuite Professional workflow
+- File Upload Bypass / LFI / SQLi
+- Post-explotación (configs, credenciales, logs)
+- Privesc Linux (SUID, permisos, rutas, servicios)
+- Wireshark, Netcat, SSH
 
-### Cloud  
-- Google Cloud (App Engine, Cloud SQL, Firestore, Secret Manager)  
-- Docker para despliegues y scrapers  
-- Automatización de procesos en cloud
+### Infraestructura & Cloud
+- Google Cloud (App Engine, Cloud SQL, Firestore, Secret Manager)
+- Docker para scrapers y servicios
+- Despliegue y automatización real
 
 ---
 
-# 🔥 Proyectos Destacados
+## 🚀 Proyectos TOP
 
-## 🔷 Gemsy.es — IA para Scouting Profesional (PRODUCCIÓN)
+# 💠 GEMS Y — Plataforma profesional de scouting con IA
+### *Tu proyecto estrella. Tu diferenciador. Tu portfolio real.*
 
-Plataforma propia utilizada por ojeadores reales.
+Gemsy combina:
 
-Incluye:  
-- Scraping masivo de Transfermarkt y ligas completas  
-- Limpieza y normalización avanzada  
-- Análisis técnico automatizado con IA  
-- Infraestructura productiva en Google Cloud  
-- Paneles y herramientas internas
-
-**Tecnologías:** Python · Playwright · SQL · Cloud · IA
+- Scraping masivo de Transfermarkt y competiciones completas  
+- IA para generar informes, comparativas y análisis tácticos  
+- Bases de datos relacionales optimizadas  
+- Infraestructura cloud escalable  
+- Paneles internos para ojeadores y analistas  
 
 👉 https://gemsy.es
 
 ---
 
-## 🔷 Scrapers Masivos (Transfermarkt & similares)
+# 📘 Scrapers masivos (Transfermarkt & similares)
 
-Descripción realista y profesional:
+- Miles de páginas automatizadas  
+- Pipelines que procesan ligas completas  
+- Limpieza y normalización avanzada  
+- Integración con SQL y Google Sheets  
+- Preparación para IA (features limpias)  
 
-- Scrapings de miles de jugadores / ligas / equipos  
-- Handling de proxies, timeouts, paginaciones complejas  
-- Pipelines robustos (ejecuciones de días sin fallos)  
-- Exportación a SQL y Google Sheets  
-- Datos preparados para IA y dashboards  
-
----
-
-## 🔷 Automatizaciones Profesionales
-
-- WhatsApp Business + IA  
-- Google Sheets / Calendar / Drive  
-- Bots internos  
-- Generación automática de informes  
-- Integraciones IA + SQL + Cloud
-
-Objetivo:  
-**Eliminar trabajo manual** y **multiplicar la productividad**.
+Tecnologías: Python, Playwright, SQL, GCP
 
 ---
 
-# 👨‍💻 Hacking & Red Team
+# 🤖 Automatizaciones con IA (nivel profesional)
 
-### 1) Enumeración
-- Identificación de superficies de ataque  
-- Fuzzing y análisis de rutas  
-- Fingerprinting de servicios  
+- Bots de WhatsApp Business  
+- Agentes automáticos que procesan datos  
+- Integración IA + SQL + APIs  
+- Generación de informes  
+- Automatización de flujos internos  
 
-### 2) Explotación
-- SQL Injection  
-- File Upload Bypass  
-- Peticiones manipuladas con BurpSuite  
-- Acceso inicial y obtención de shell  
+IA no para “hacer el proyecto”, sino para **multiplicar velocidad + precisión**.
 
-### 3) Post-explotación
-- Revisión de configs, logs, credenciales  
-- Extracción de bases de datos  
-- Comprensión de la lógica interna del sistema  
+---
 
-### 4) Privilege Escalation (aprendizaje activo)
-- SUID / SGID  
-- Permisos mal configurados  
-- Servicios vulnerables  
-- Rutas inseguras  
+# 🕵️ Red Team Workflow
+
+### 1. Enumeración
+Nmap, Gobuster, Wfuzz, fingerprinting del stack.
+
+### 2. Explotación
+BurpSuite, SQLi, LFI, uploads, bypasses, acceso a shell.
+
+### 3. Post-explotación
+Lectura de configs críticas, extracción de bases de datos, análisis interno.
+
+### 4. Privesc
+Permisos, SUID/SGID, servicios, rutas inseguras.
 
 ---
 
@@ -177,15 +161,16 @@ Objetivo:
 # 🎯 Roadmap Profesional 2025
 
 - Dominio de explotación web real  
-- Privesc Linux → Privesc Windows  
-- Creación de herramientas Red Team propias en Python  
-- Escalar nivel HTB/THM (Medium → Hard)  
-- Evolución de Gemsy a microservicios  
-- Preparación para OSCP  
+- Privesc Windows  
+- Herramientas Red Team propias en Python  
+- Escalar en HTB/THM (Medium → Hard)  
+- Gemsy → sistema modular con microservicios  
+- Preparación OSCP  
 
 ---
 
 # 📞 Contacto
 
-**LinkedIn:** https://linkedin.com/in/david-rodriguez-ramirez-7738241ab  
-**Web:** https://gemsy.es
+📧 **Email:** davidrodriguezscout@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/david-rodriguez-ramirez-7738241ab  
+🌐 **Web:** https://gemsy.es
