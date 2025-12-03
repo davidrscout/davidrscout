@@ -15,107 +15,107 @@
 
 ---
 
-# 🧭 Perfil Profesional
+# 🧭 Professional Profile
 
-Profesional orientado a la ciberseguridad ofensiva, la automatización con Python y la ingeniería de datos. Experiencia en la construcción de sistemas completos, desde la extracción masiva de información hasta su procesamiento, análisis y despliegue en entornos cloud.
+Professional focused on offensive security, Python automation, and data engineering. Experience building complete systems, from massive data extraction to processing, analysis, and cloud deployment.
 
-Autor y desarrollador principal de **Gemsy.es**, una plataforma utilizada por ojeadores profesionales que integra scraping masivo, análisis de datos e IA para generar informes y evaluaciones futbolísticas.
-
----
-
-# 💎 Competencias Diferenciales
-
-### ✔ Desarrollo de plataformas reales en producción  
-Arquitectura, diseño y mantenimiento de sistemas como **Gemsy.es**, con infraestructura desplegada en Google Cloud y orientada a uso profesional.
-
-### ✔ Scraping masivo de datos a escala industria  
-Procesos capaces de recorrer ligas completas, manejar miles de solicitudes y generar datasets listos para análisis o IA.
-
-### ✔ Automatización avanzada con Python  
-Bots, pipelines, agentes inteligentes, integración de APIs y sistemas automatizados en cloud.
-
-### ✔ Experiencia en ciberseguridad ofensiva  
-Enumeración, explotación, post-explotación y privilege escalation en entornos de laboratorio (HTB/THM).
-
-### ✔ Integración de IA en procesos reales  
-Uso de IA como copiloto para acelerar desarrollo, análisis y generación de contenido técnico.
+Author and lead developer of **Gemsy.es**, a platform used by professional scouts that integrates large-scale scraping, data analysis, and AI to generate football reports and evaluations.
 
 ---
 
-# 🛠️ Stack Técnico
+# 💎 Key Differentiators
+
+### ✔ Development of real production platforms  
+Architecture, design, and maintenance of systems such as **Gemsy.es**, deployed on Google Cloud and built for professional use.
+
+### ✔ Large-scale industrial scraping  
+Pipelines capable of crawling entire leagues, handling thousands of requests, and generating datasets ready for analysis or AI.
+
+### ✔ Advanced Python automation  
+Bots, pipelines, intelligent agents, API integrations, and cloud-automated systems.
+
+### ✔ Offensive security experience  
+Enumeration, exploitation, post-exploitation, and privilege escalation in lab environments (HTB/THM).
+
+### ✔ AI integration in real processes  
+Using AI as a copilot to accelerate development, analysis, and technical content generation.
+
+---
+
+# 🛠️ Technical Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,docker,git,gcp,postgresql,mysql,cloudflare,html,css,js" height="46">
 </p>
 
-### Lenguajes & Data  
-- Python (automatización, scraping, APIs, pipelines)  
+### Languages & Data  
+- Python (automation, scraping, APIs, pipelines)  
 - SQL (PostgreSQL, MySQL)  
-- Data cleaning, normalización y estructuración
+- Data cleaning, normalization, and structuring
 
-### Ciberseguridad  
+### Cybersecurity  
 - Nmap, Gobuster, Wfuzz  
 - BurpSuite · SQL Injection · LFI · Upload vulnerabilities  
-- Post-explotación: análisis interno, extracción de credenciales y BBDD  
-- Privesc Linux: SUID, permisos, rutas, servicios  
+- Post-exploitation: internal analysis, credential extraction, databases  
+- Linux Privesc: SUID, permissions, paths, services  
 - Wireshark · Netcat · SSH  
 
-### Cloud & Infraestructura  
+### Cloud & Infrastructure  
 - Google Cloud (App Engine, Firestore, Cloud SQL, Secret Manager)  
-- Docker para entornos aislados  
-- Automatización de tareas y despliegues en cloud  
+- Docker for isolated environments  
+- Cloud task automation and deployment  
 
 ---
 
-# 🚀 Proyectos Relevantes
+# 🚀 Relevant Projects
 
-## 🔷 Gemsy.es — Plataforma de análisis futbolístico basada en datos e IA  
-Plataforma de scouting en producción.  
-Incluye:
+## 🔷 Gemsy.es — Data and AI-based football analysis platform  
+Production-ready scouting platform.  
+Includes:
 
-- Scraping masivo de Transfermarkt  
-- Procesamiento y normalización avanzada  
-- Generación de informes y análisis con IA  
-- Base de datos completa para evaluación técnica  
-- Arquitectura desplegada en Google Cloud
+- Massive Transfermarkt scraping  
+- Advanced processing and normalization  
+- AI-powered report generation and analysis  
+- Complete database for technical evaluation  
+- Google Cloud-deployed architecture
 
-**Tecnologías:** Python · SQL · Playwright · BeautifulSoup · Cloud · IA  
-**Sitio web:** https://gemsy.es
-
----
-
-## 🔷 Scrapers Masivos (Transfermarkt & similares)
-
-- Recorrido automatizado de miles de páginas  
-- Pipelines diseñados para ejecuciones de 24–72h  
-- Normalización y limpieza avanzada  
-- Exportación a SQL, Sheets y sistemas analíticos  
-- Preparación para IA y dashboards  
+**Technologies:** Python · SQL · Playwright · BeautifulSoup · Cloud · AI  
+**Website:** https://gemsy.es
 
 ---
 
-## 🔷 Automatización Operativa
+## 🔷 Large-Scale Scrapers (Transfermarkt & similar)
 
-- Bots y agentes para WhatsApp Business  
-- Integración con Google Sheets/Calendar/Drive  
-- Generación automática de informes y análisis  
-- Sistemas reducidos al mínimo de intervención manual  
+- Automated traversal of thousands of pages  
+- Pipelines designed for 24–72h runs  
+- Advanced normalization and data cleaning  
+- Export to SQL, Sheets, and analytical systems  
+- AI-ready and dashboard-ready datasets  
 
 ---
 
-# 🕵️‍♂️ Enfoque en Ciberseguridad
+## 🔷 Operational Automation
 
-### Enumeración  
-Análisis de superficies de ataque, fingerprinting del stack y detección de rutas y servicios.
+- WhatsApp Business bots and agents  
+- Integration with Google Sheets/Calendar/Drive  
+- Automatic report and analysis generation  
+- Systems designed for minimal manual intervention  
 
-### Explotación  
-Validación de entrada, inyección SQL, vulnerabilidades de subida de archivos, manipulación de peticiones.
+---
 
-### Post-explotación  
-Extracción de credenciales, análisis de configuraciones y bases de datos, estudio interno de arquitectura.
+# 🕵️‍♂️ Cybersecurity Focus
+
+### Enumeration  
+Attack surface analysis, stack fingerprinting, route and service detection.
+
+### Exploitation  
+Input validation bypass, SQL injection, file upload vulnerabilities, request manipulation.
+
+### Post-exploitation  
+Credential extraction, configuration analysis, database inspection, internal architecture mapping.
 
 ### Privilege Escalation  
-Evaluación de rutas, servicios, binarios, permisos y capacidades vulnerables.
+Evaluation of paths, services, binaries, permissions, and vulnerable capabilities.
 
 ---
 
@@ -128,18 +128,18 @@ Evaluación de rutas, servicios, binarios, permisos y capacidades vulnerables.
 
 ---
 
-# 🎯 Roadmap Profesional
+# 🎯 Professional Roadmap
 
-- Explotación web avanzada  
-- Privilege Escalation en Linux y Windows  
-- Desarrollo de herramientas de Red Team en Python  
-- Avance en HTB/THM (Medium → Hard)  
-- Evolución modular de Gemsy  
-- Preparación OSCP  
+- Advanced web exploitation  
+- Privilege Escalation in Linux and Windows  
+- Development of Red Team tools in Python  
+- HTB/THM progression (Medium → Hard)  
+- Modular evolution of Gemsy  
+- OSCP preparation  
 
 ---
 
-# 📞 Contacto
+# 📞 Contact
 
 **Email:** davidrodriguezscout@gmail.com  
 **LinkedIn:** https://linkedin.com/in/david-rodriguez-ramirez-7738241ab  
